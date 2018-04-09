@@ -1,5 +1,6 @@
 # AI-Assignment-2
 
+## CNN
 This repository Classsifies images as melanoma or non melanoma. Images are resized to 128X128. 
 
                  precision    recall  f1-score   support
